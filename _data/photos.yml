@@ -1,0 +1,12 @@
+- name: untitled
+  file: alfons.png
+  size: 2
+- name: malfosn
+  file: grub.png
+  size: 1
+- name: blubb
+  file: muh.png
+  size: 1
+- name: titatu
+  file: muh.png
+  size: 2
