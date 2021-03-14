@@ -1,12 +1,21 @@
 - name: untitled
   file: alfons.png
   size: 2
-- name: malfosn
-  file: grub.png
-  size: 1
 - name: blubb
   file: muh.png
   size: 1
+- name: prrt
+  file: quadra.png
+  size: 2
+- name: malfosn
+  file: grub.png
+  size: 1
 - name: titatu
-  file: muh.png
+  file: muh2.png
+  size: 2
+- name: miau
+  file: popho.png
+  size: 2
+- name: muh
+  file: phopho.png
   size: 2
