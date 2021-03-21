@@ -1,12 +1,16 @@
+{% include base.html %}
 <div class="photo_gallery">
     {% for photo in site.data.photos %}
-    <div class="photo">
-        <div class="photo__info_box">
-            <p class="photo__info_title">
-                {{ photo.name }}
-            </p>
+    <div class="photo_container">
+        <div class="photo_content">
+            <div class="photo__info_box">
+                <p class="photo__info_title">
+                    {{ photo.name }}
+                </p>
+            </div>
+            <img class="photo__image" src="{{ base }}/assets/img/{{ photo.file }}" alt="{{ photo.description }}">
         </div>
-        <img class="photo__image" src="assets/img/{{ photo.file }}">
     </div>
     {% endfor %}
 </div>
+<script src="{{ base }}/assets/js/masonry.js"></script>

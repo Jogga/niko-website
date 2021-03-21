@@ -1,21 +1,24 @@
-- name: untitled
+- name: 0 desert
+  file: desert.png
+  description: lorem ipsum
+- name: 1 untitled
   file: alfons.png
-  size: 2
-- name: blubb
-  file: muh.png
-  size: 1
-- name: prrt
+  description: lorem ipsum
+- name: 2 prrt
   file: quadra.png
-  size: 2
-- name: malfosn
-  file: grub.png
-  size: 1
-- name: titatu
+  description: lorem ipsum
+- name: 3 blubb
+  file: muh.png
+  description: lorem ipsum
+- name: 4 titatu
   file: muh2.png
-  size: 2
-- name: miau
+  description: lorem ipsum
+- name: 5 miau
   file: popho.png
-  size: 2
-- name: muh
+  description: lorem ipsum
+- name: 6 test
+  file: grub.png
+  description: lorem ipsum
+- name: 7 muh
   file: phopho.png
-  size: 2
+  description: lorem ipsum

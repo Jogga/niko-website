@@ -1,6 +1,16 @@
 ---
 title: Privacy
-layout: default
+layout: post
 ---
 
-Privacy stuff
+# Privacy
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pellentesque habitant morbi tristique senectus et netus et malesuada fames. Sed sed risus pretium quam. Velit egestas dui id ornare arcu. Sit amet consectetur adipiscing elit. Sed vulputate odio ut enim blandit volutpat maecenas volutpat. Ornare quam viverra orci sagittis eu. Vestibulum sed arcu non odio euismod lacinia at. Risus nec feugiat in fermentum posuere urna. Lacus laoreet non curabitur gravida arcu.
+
+Egestas fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate. Bibendum enim facilisis gravida neque convallis. Tortor vitae purus faucibus ornare suspendisse sed nisi lacus. Nulla facilisi etiam dignissim diam quis enim. Ut eu sem integer vitae justo eget magna fermentum iaculis. Eu volutpat odio facilisis mauris sit amet. A cras semper auctor neque vitae tempus quam. Integer eget aliquet nibh praesent tristique magna. Nullam non nisi est sit amet facilisis magna. Urna molestie at elementum eu facilisis sed odio morbi.
+
+Enim sit amet venenatis urna cursus eget. Felis donec et odio pellentesque diam volutpat commodo sed egestas. Ac turpis egestas maecenas pharetra. Nunc mattis enim ut tellus elementum sagittis vitae et leo. Vehicula ipsum a arcu cursus vitae congue mauris rhoncus aenean. Integer quis auctor elit sed vulputate mi sit. Dolor morbi non arcu risus quis varius quam. Mauris cursus mattis molestie a. Convallis convallis tellus id interdum velit laoreet id donec ultrices. In cursus turpis massa tincidunt dui ut ornare. Consectetur adipiscing elit pellentesque habitant morbi tristique senectus. Pulvinar elementum integer enim neque. Tristique risus nec feugiat in fermentum posuere urna. Lacus laoreet non curabitur gravida arcu ac tortor dignissim convallis. Cursus turpis massa tincidunt dui ut ornare. Risus viverra adipiscing at in tellus integer feugiat scelerisque varius. Platea dictumst vestibulum rhoncus est. Massa tincidunt nunc pulvinar sapien et ligula ullamcorper.
+
+Viverra mauris in aliquam sem fringilla. Ac tortor vitae purus faucibus ornare suspendisse sed. Quisque egestas diam in arcu cursus euismod quis viverra. Id cursus metus aliquam eleifend mi in nulla. Nisl pretium fusce id velit. Est lorem ipsum dolor sit amet. Scelerisque varius morbi enim nunc faucibus a pellentesque sit amet. Lacus laoreet non curabitur gravida arcu ac tortor. Auctor urna nunc id cursus. Et netus et malesuada fames ac. Placerat duis ultricies lacus sed turpis tincidunt id aliquet. Posuere ac ut consequat semper viverra nam libero. Sed vulputate odio ut enim blandit volutpat maecenas volutpat blandit. Venenatis lectus magna fringilla urna porttitor rhoncus dolor. Velit ut tortor pretium viverra suspendisse potenti nullam ac. In iaculis nunc sed augue. Mauris commodo quis imperdiet massa.
+
+Facilisis volutpat est velit egestas. Sem fringilla ut morbi tincidunt. Pretium aenean pharetra magna ac. Quam elementum pulvinar etiam non quam lacus suspendisse. Pharetra diam sit amet nisl suscipit adipiscing bibendum est. Lectus magna fringilla urna porttitor rhoncus dolor purus. Feugiat in fermentum posuere urna nec. Ac tincidunt vitae semper quis lectus nulla at volutpat. In cursus turpis massa tincidunt dui ut ornare. Duis ultricies lacus sed turpis tincidunt id aliquet. Mauris pharetra et ultrices neque. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. Diam sollicitudin tempor id eu nisl.
