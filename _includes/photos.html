@@ -1,17 +1,14 @@
 {% include base.html %}
 <div class="photo_gallery">
-    {% for photo in site.data.photos %}
+    {% for post in site.posts %}
     <div class="photo_container">
         <div class="photo_content">
-            <a class="photo__info_box" href="/">
+            <a class="photo__info_box" href="{{ base }}{{ post.url }}">
                 <p class="photo__info_title">
-                    {{ photo.name }}
-                </p>
-                <p class="photo__info_description">
-                    {{ photo.description }}
+                    {{ post.title }}
                 </p>
             </a>
-            <img class="photo__image" src="{{ base }}/assets/img/{{ photo.file }}" alt="{{ photo.description }}">
+            <img class="photo__image" src="{{ base }}/assets/img/{{ post.image }}">
         </div>
     </div>
     {% endfor %}

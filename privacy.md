@@ -1,6 +1,6 @@
 ---
 title: Privacy
-layout: post
+layout: page
 ---
 
 # Privacy

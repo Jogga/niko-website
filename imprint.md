@@ -1,6 +1,6 @@
 ---
 title: Imprint
-layout: post
+layout: page
 ---
 
 # Imprint
