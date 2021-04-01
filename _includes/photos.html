@@ -3,11 +3,14 @@
     {% for photo in site.data.photos %}
     <div class="photo_container">
         <div class="photo_content">
-            <div class="photo__info_box">
+            <a class="photo__info_box" href="/">
                 <p class="photo__info_title">
                     {{ photo.name }}
                 </p>
-            </div>
+                <p class="photo__info_description">
+                    {{ photo.description }}
+                </p>
+            </a>
             <img class="photo__image" src="{{ base }}/assets/img/{{ photo.file }}" alt="{{ photo.description }}">
         </div>
     </div>

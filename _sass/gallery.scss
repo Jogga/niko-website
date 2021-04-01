@@ -26,16 +26,39 @@
 }
 
 .photo__info_box {
+  text-decoration: none;
   opacity: 0;
-  padding: 1em;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  padding: 2em;
   width: 100%;
   box-sizing: border-box;
   position: absolute;
   bottom: 0;
-  background-color: rgba($color: #000, $alpha: 0.90);
-  color: #eee;
+  top: 0;
+  background-color: rgba($color: #fff, $alpha: 0.60);
+  color: #333;
   transition: opacity 0.2s;
 }
+
 .photo__info_title {
-font-size: 0.8em;
+  font-size: 1em;
+  font-weight: 700;
+  margin: 0.2em 0;
+}
+
+.photo__info_description {
+  font-size: 0.875em;
+  line-height: 1.4em;
+  margin: 0 0 1.5rem 0;
+}
+
+.photo__view_button {
+  font-size: 0.875rem;
+  display: inline-flex;
+  border: none;
+  color: #fff;
+  padding: 0.25rem;
 }

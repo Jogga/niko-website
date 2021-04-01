@@ -1,25 +1,27 @@
 {% include base.html %}
 <nav class="global_nav">
-    <div class="global_nav__home">
-        <a class="global_nav__home__link" href="{{ base }}/">Nikolas Fabian Kammerer</a>
+    <div class="global_nav__constraint">
+        <div class="global_nav__home">
+            <a class="global_nav__home__link" href="{{ base }}/">Nikolas Fabian Kammerer</a>
+        </div>
+        <ul class="global_nav__items">
+            <li class="global_nav__item {% if page.url == '/about.html' %}global_nav__item--active{% endif %}">
+                <a class="global_nav__item__link" 
+                href="{{ base }}/about.html">About</a>
+            </li>
+            <li class="global_nav__item {% if page.url == '/contact.html' %}global_nav__item--active{% endif %}">
+                <a class="global_nav__item__link" 
+                href="{{ base }}/contact">Contact</a>
+            </li>
+            <li class="global_nav__item {% if page.url == '/imprint.html' %}global_nav__item--active{% endif %}">
+                <a class="global_nav__item__link"
+                href="{{ base }}/imprint">Imprint</a>
+            </li>
+            <li class="global_nav__item {% if page.url == '/privacy.html' %}global_nav__item--active{% endif %}">
+                <a class="global_nav__item__link" 
+                href="{{ base }}/privacy">Privacy</a>
+            </li>
+        </ul>
     </div>
-    <ul class="global_nav__items">
-        <li class="global_nav__item {% if page.url == '/about.html' %}global_nav__item--active{% endif %}">
-            <a class="global_nav__item__link" 
-             href="{{ base }}/about.html">About</a>
-        </li>
-        <li class="global_nav__item {% if page.url == '/contact.html' %}global_nav__item--active{% endif %}">
-            <a class="global_nav__item__link" 
-             href="{{ base }}/contact">Contact</a>
-        </li>
-        <li class="global_nav__item {% if page.url == '/imprint.html' %}global_nav__item--active{% endif %}">
-            <a class="global_nav__item__link"
-             href="{{ base }}/imprint">Imprint</a>
-        </li>
-        <li class="global_nav__item {% if page.url == '/privacy.html' %}global_nav__item--active{% endif %}">
-            <a class="global_nav__item__link" 
-             href="{{ base }}/privacy">Privacy</a>
-        </li>
-    </ul>
 </nav>
 
