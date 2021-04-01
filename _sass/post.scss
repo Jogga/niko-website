@@ -1,52 +1,70 @@
 .post {
-    max-width: 45em;
+    max-width: 50em;
     margin-left: auto;
     margin-right: auto;
 
-    p {
-        max-width: 40rem;
-        margin-left: auto;
-        margin-right: auto;
+    img {
+        border-radius: 2px;
+        display: block;
+        width: 100%;
+        margin: 3rem 0;
     }
+}
+
+.post_description {
+    margin-top: 1rem;
+    font-size: 1.2rem;
+    line-height: 1.6;
+    max-width: 40rem;
+    color: #445;
+}
+
+.post_header {
+    display: flex;
 }
 
 .posts_pager {
     display: flex;
     justify-content: space-between;
-    align-items: center;
-    margin: 2rem 0 2rem;
+    align-items: top;
 }
 
 .pager_button {
     text-decoration: none;
     display: block;
-    border-radius: 24px;
+    border-radius: 25px;
     padding: 4px;
     width: 40px;
     height: 40px;
     line-height: 0;
-    margin: 0 1rem;
+    margin: 0;
     opacity: 1;
     background-color: #fff;
     transition: background-color 0.2s;
+    border: 1px solid #ddd;
     &:hover {
         background-color: #eee;
+    }
+    &:first-child {
+        margin-right: 1rem;
+    }
+    img {
+        margin: 0;
     }
 }
 
 .post_title {
+    flex-grow: 1;
     font-size: 2rem;
     line-height: 2.5rem;
-    margin: 0 1rem;
-    text-align: center;
+    margin: 0;
+    margin-right: 5rem;
+    text-align: left;
 }
 
 .pager_button.pager_button--inactive {
-    opacity: 0.3;
     background-color: #fff;
-}
-
-.post_hero_image {
-    width: 100%;
-    margin-bottom: 2rem;
+    img {
+        opacity: 0.2;
+    }
 }

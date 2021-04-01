@@ -3,28 +3,31 @@ layout: default
 ---
 
 <div class="post">
-    <div class="posts_pager">
-        {% if page.next == nil %}
-        <a class="pager_button pager_button--inactive">
-            <img src="{{ base }}/assets/img/icon/arrow-left.svg" alt="next">
-        </a>
-        {% else %}
-        <a class="pager_button" href="{{ base }}{{ page.next.url }}">
-            <img src="{{ base }}/assets/img/icon/arrow-left.svg" alt="next">
-        </a>
-        {% endif %}
+    <div class="post_header">    
         <h1 class="post_title">{{ page.title }}</h1>
-        {% if page.previous == nil %}
-        <a class="pager_button pager_button--inactive">
-            <img src="{{ base }}/assets/img/icon/arrow-right.svg" alt="previous">
-        </a>
-        {% else %}
-        <a class="pager_button" href="{{ base }}{{ page.previous.url }}">
-            <img src="{{ base }}/assets/img/icon/arrow-right.svg" alt="previous">
-        </a>
-        {% endif %}
+        <div class="posts_pager">
+            {% if page.next == nil %}
+            <a class="pager_button pager_button--inactive">
+                <img src="{{ base }}/assets/img/icon/arrow-left.svg" alt="next">
+            </a>
+            {% else %}
+            <a class="pager_button" href="{{ base }}{{ page.next.url }}">
+                <img src="{{ base }}/assets/img/icon/arrow-left.svg" alt="next">
+            </a>
+            {% endif %}
+    
+            {% if page.previous == nil %}
+            <a class="pager_button pager_button--inactive">
+                <img src="{{ base }}/assets/img/icon/arrow-right.svg" alt="previous">
+            </a>
+            {% else %}
+            <a class="pager_button" href="{{ base }}{{ page.previous.url }}">
+                <img src="{{ base }}/assets/img/icon/arrow-right.svg" alt="previous">
+            </a>
+            {% endif %}
+        </div>
     </div>
-    <p>{{ page.description }}</p>
+    <p class="post_description">{{ page.description }}</p>
     <img class="post_hero_image" src="{{ base }}/assets/img/{{ page.image }}">
     {{ content }}
 </div>
