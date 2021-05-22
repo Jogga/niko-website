@@ -1,3 +1,15 @@
-<footer>
-    <p class="copyright">Copyright 2021 Nikolas Fabian Kammerer</p>
+{% include base.html %}
+<footer class="footer">
+    <p class="footer--copyright">Copyright 2021 Nikolas Fabian Kammerer</p>
+    <ul class="footer--link-list">
+        <li class=footer--link-list-elem>
+            <a class="footer--link" href="{{ base }}/imprint.html">Imprint</a>
+        </li>
+        <li class=footer--link-list-elem>
+            <a class="footer--link" href="{{ base }}/terms.html">Terms</a>
+        </li>
+        <li class=footer--link-list-elem>
+            <a class="footer--link" href="{{ base }}/privacy.html">Privacy</a>
+        </li>
+    </ul>
 </footer>
