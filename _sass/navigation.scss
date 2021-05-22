@@ -4,60 +4,88 @@
   position: fixed;
   width: 100%;
   background-color: #fff;
-  a {
-    text-decoration: none;
-    color: $bodyColor;
-    display: inline-block;
-  }
 }
 
 .global_nav__constraint {
-  display: flex;
   max-width: $max-width;
   margin-left: auto;
   margin-right: auto;
-  padding-left: 2em;
-  padding-right: 2em;
-  justify-content: space-between;
-
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 
 .global_nav__home__link {
+  display: block;
   font-weight: bold;
-  padding: 1.25em 0;
-  border-radius: 4px;
+  color: $bodyColor;
+  text-decoration: none;
+  line-height: 1.5em;
+  padding: 0.25rem 0;
+  margin-bottom: 0.5rem;
   &:hover {
     color: #666;
   }
 }
 
 .global_nav__items {
-  list-style-type: none;
   display: flex;
+  align-items: center;
   margin: 0;
   padding: 0;
 }
 
 .global_nav__item__link {
-  padding: 1em 0;
-  border-top: 0.25em white solid;
-  border-bottom: 0.25em white solid;
-  &:hover {
-    color: #666;
-    border-bottom-color: #666;
+  line-height: 1.5rem;
+  padding: 0.25rem 0.75rem;
+  margin: 0 0.25rem;
+  border-radius: 6px;
+  color: $bodyColor;
+  text-decoration: none;
+  background-color: #eee;
+  color: $bodyColor;
+  &:first-child {
+    margin-left: 0;
   }
 }
 
+.global_nav__item__link--insta {
+  display: flex;
+  align-items: center;
+}
+
 .global_nav__item--active {
-  .global_nav__item__link {
-    border-bottom-color: #333;
-    color: #333;
+  color:#fff;
+  background-color: #333;
+  &:hover {
+    color:#fff;
+    background-color: #333;
   }
 }
 
 @media screen and (min-width: 640px) {
-  .global_nav__item {
-    margin-right: 0;
-    margin-left: 2em;
+  .global_nav__constraint {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .global_nav__item__link {
+    background-color: white;
+    &:hover {
+      background-color: #eee;
+      color: $bodyColor;
+    }
+  }
+  .global_nav__home__link {
+    margin-bottom: 0;
+  }
+  .global_nav__item--active {
+    color:#fff;
+    background-color: #333;
+    &:hover {
+      color:#fff;
+      background-color: #333;
+    }
   }
 }

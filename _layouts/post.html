@@ -9,21 +9,21 @@ layout: default
         <div class="posts_pager">
             {% if page.next == nil %}
             <a class="pager_button pager_button--inactive">
-                <img src="{{ base }}/assets/img/icon/arrow-left.svg" alt="next">
+                <img src="{{ base }}/assets/img/icon/arrow-left-flat.svg" alt="next">
             </a>
             {% else %}
             <a class="pager_button" href="{{ base }}{{ page.next.url }}">
-                <img src="{{ base }}/assets/img/icon/arrow-left.svg" alt="next">
+                <img src="{{ base }}/assets/img/icon/arrow-left-flat.svg" alt="next">
             </a>
             {% endif %}
     
             {% if page.previous == nil %}
             <a class="pager_button pager_button--inactive">
-                <img src="{{ base }}/assets/img/icon/arrow-right.svg" alt="previous">
+                <img src="{{ base }}/assets/img/icon/arrow-right-flat.svg" alt="previous">
             </a>
             {% else %}
             <a class="pager_button" href="{{ base }}{{ page.previous.url }}">
-                <img src="{{ base }}/assets/img/icon/arrow-right.svg" alt="previous">
+                <img src="{{ base }}/assets/img/icon/arrow-right-flat.svg" alt="previous">
             </a>
             {% endif %}
         </div>

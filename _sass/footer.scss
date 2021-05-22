@@ -24,4 +24,7 @@
 .footer--link {
     text-decoration: none;
     color: #666;
+    &:hover {
+        color: #333;
+    }
 }
