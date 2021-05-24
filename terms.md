@@ -1,6 +1,6 @@
 ---
 title: Allgemeine Geschäftsbedingungen
-layout: page
+layout: legal
 ---
 
 # AGB
@@ -110,14 +110,3 @@ Allgemeine Geschäftsbedingungen
 3) Die etwaige Nichtigkeit bzw. Unwirksamkeit einer oder mehrerer Bestimmungen dieser AGB berührt nicht die Wirksamkeit der übrigen Bestimmungen. Die Parteien verpflichten sich, die ungültige Bestimmung durch eine sinnentsprechende wirksame Bestimmung zu ersetzen, die der angestrebten Regelung wirtschaftlich und juristisch am nächsten kommt.
 
 4) Erfüllungsort und Gerichtsstand ist, wenn der Kunde Vollkaufmann ist, der Wohnsitz des Fotografen.
-
----
-
-**Nikolas Fabian Kammerer**
-
-Photography  
-Karl-Ferlemann-Str. 22  
-04177 Leipzig  
-
-Telephone: +49 (0) 176 623 859 83  
-E-Mail: info[at]nikolasfabiankammerer.de  

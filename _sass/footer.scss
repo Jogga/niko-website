@@ -1,7 +1,7 @@
 .footer {
     text-align: center;
     padding: 4em 2em;
-    color: #999;
+    color: $foreground-040;
 }
 
 .footer--copyright {
@@ -23,8 +23,8 @@
 
 .footer--link {
     text-decoration: none;
-    color: #666;
+    color: $foreground-060;
     &:hover {
-        color: #333;
+        color: $foreground-080;
     }
 }

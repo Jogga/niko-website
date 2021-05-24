@@ -3,7 +3,7 @@
   z-index: 1;
   position: fixed;
   width: 100%;
-  background-color: #fff;
+  background-color: $background;
 }
 
 .global_nav__constraint {
@@ -19,13 +19,13 @@
 .global_nav__home__link {
   display: block;
   font-weight: bold;
-  color: $bodyColor;
+  color: $foreground-100;
   text-decoration: none;
   line-height: 1.5em;
   padding: 0.25rem 0;
   margin-bottom: 0.5rem;
   &:hover {
-    color: #666;
+    color: $foreground-060;
   }
 }
 
@@ -41,26 +41,27 @@
   padding: 0.25rem 0.75rem;
   margin: 0 0.25rem;
   border-radius: 6px;
-  color: $bodyColor;
+  color: $foreground-100;
   text-decoration: none;
-  background-color: #eee;
-  color: $bodyColor;
+  background-color: $foreground-000;
+  color: $foreground-100;
   &:first-child {
     margin-left: 0;
   }
 }
 
 .global_nav__item__link--insta {
+  padding: 0.25rem 0.75rem 0.25rem 0.5rem;
   display: flex;
   align-items: center;
 }
 
 .global_nav__item--active {
-  color:#fff;
-  background-color: #333;
+  color: $background;
+  background-color: $foreground-100;
   &:hover {
-    color:#fff;
-    background-color: #333;
+    color: $background;
+    background-color: $foreground-100;
   }
 }
 
@@ -71,21 +72,21 @@
     align-items: center;
   }
   .global_nav__item__link {
-    background-color: white;
+    background-color: $background;
     &:hover {
-      background-color: #eee;
-      color: $bodyColor;
+      background-color: $foreground-000;
+      color: $foreground-100;
     }
   }
   .global_nav__home__link {
     margin-bottom: 0;
   }
   .global_nav__item--active {
-    color:#fff;
-    background-color: #333;
+    color: $background;
+    background-color: $foreground-100;
     &:hover {
-      color:#fff;
-      background-color: #333;
+      color: $background;
+      background-color: $foreground-100;
     }
   }
 }

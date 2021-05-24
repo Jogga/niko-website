@@ -1,0 +1,21 @@
+.page__legal {
+  max-width: 40rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.legal__contact {
+  background-color: $foreground-100;
+  color: $background;
+  margin-top: 3rem;
+  padding: 2rem;
+  border-radius: 6px;
+}
+
+.legal__contact__title {
+  margin-top: 0;
+}
+
+.legal__contact__content {
+  margin-bottom: 0;
+}

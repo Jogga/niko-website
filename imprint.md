@@ -1,24 +1,11 @@
 ---
 title: Imprint
-layout: page
+layout: legal
 ---
 
 # Imprint
 
 Information in accordance with § 5 TMG
-
----
-
-**Nikolas Fabian Kammerer**
-
-Photography  
-Karl-Ferlemann-Str. 22  
-04177 Leipzig  
-
-Telephone: +49 (0) 176 623 859 83  
-E-Mail: info[at]nikolasfabiankammerer.de  
-
----
 
 Accountability for content The contents of our pages have been created with the utmost care. However, we cannot guarantee the contents’ accuracy, completeness or topicality. According to statutory provisions, we are furthermore responsible for our own content on these web pages. In this context, please note that we are accordingly not obliged to monitor merely the transmitted or saved information of third parties, or investigate circumstances pointing to illegal activity.
 
