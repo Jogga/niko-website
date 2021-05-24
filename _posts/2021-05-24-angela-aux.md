@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "K. Bros"
+title:  "Angela Aux"
 image: ANGELA_AUX_049_hp.jpg
 ---
 
