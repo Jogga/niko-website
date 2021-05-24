@@ -1,5 +1,5 @@
 ---
-title: Imprint
+title: Nikolas Kammerer Photography – Imprint
 layout: legal
 ---
 

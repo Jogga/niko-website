@@ -1,11 +1,9 @@
 ---
-title: Allgemeine Geschäftsbedingungen
+title: Nikolas Kammerer Photography – Terms
 layout: legal
 ---
 
 # AGB
-
-Allgemeine Geschäftsbedingungen
 
 [A) Allgemeines](#a--allgemeines)  
 [B) Kostenvoranschläge](#b--kostenvoranschläge)  

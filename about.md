@@ -1,5 +1,5 @@
 ---
-title: About
+title: Nikolas Kammerer Photography – About
 layout: about
 ---
 

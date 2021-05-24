@@ -2,10 +2,14 @@ $bodyFont: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-seri
 $max-width: 1280px;
 
 body {
-  background: $background;
+  background: $foreground-001;
   color: $foreground-100;
   font-family: $bodyFont;
   margin: 0;
+}
+
+.body__content {
+    background-color: $background;
 }
 
 main {

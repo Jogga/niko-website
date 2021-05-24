@@ -1,11 +1,9 @@
 ---
-title: Privacy
+title: Nikolas Kammerer Photography – Privacy
 layout: legal
 ---
 
 # Privacy
-
-Datenschutzerklärung und Einwilligungen
 
 [1) Zielsetzung und verantwortliche Stelle](#1-zielsetzung-und-verantwortliche-stelle)  
 [2) Grundsätzliche Angaben zur Datenverarbeitung](#2-grundsätzliche-angaben-zur-datenverarbeitung)  

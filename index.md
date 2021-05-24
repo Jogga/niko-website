@@ -1,5 +1,5 @@
 ---
-title: My First Page
+title: Nikolas Kammerer Photography
 layout: default
 ---
 
