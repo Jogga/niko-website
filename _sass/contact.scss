@@ -1,0 +1,32 @@
+.page__contact {
+  max-width: 40rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.contact__icon {
+  display: inline-block;
+  background-color: $foreground-001;
+  padding: 1rem;
+  line-height: 0;
+  flex-shrink: 0;
+  box-sizing: border-box;
+  width: 3.5rem;
+  height: 3.5rem;
+  border-radius: 1.75rem;
+  margin-right: 1rem;
+}
+
+.contact__channels {
+  margin-top: 3rem;
+}
+
+.contact__channel {
+  display: flex;
+  align-items: center;
+  margin: 0.5rem 0;
+}
+
+.contact__label {
+  margin: 0;
+}
