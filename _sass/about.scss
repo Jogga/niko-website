@@ -1,0 +1,45 @@
+.about__layout {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 60rem;
+}
+
+.about__portrait { 
+  padding-left: 6rem;
+  padding-right: 6rem;
+  margin-bottom: 2rem;
+}
+
+.about__image {
+  width: 100%;
+}
+
+.about__content {
+  flex-shrink: 1;
+
+  h1 {
+    margin-top: 0;
+  }
+}
+
+@media screen and (min-width: 640px) {
+  .about__layout {
+    margin-top: 2rem;
+    display: flex;
+  }
+  
+  .about__portrait {
+    flex-shrink: 0;
+    padding: 0;
+    width: 10rem;
+    margin-right: 2rem;
+  }
+}
+
+@media screen and (min-width: 960px) {
+  .about__portrait {
+    padding: 0;
+    width: 16rem;
+    margin-right: 4rem;
+  }
+}
