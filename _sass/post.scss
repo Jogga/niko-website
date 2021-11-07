@@ -1,13 +1,20 @@
 .post {
-    max-width: 40em;
-    margin-left: auto;
-    margin-right: auto;
-
     img {
         border-radius: 2px;
         display: block;
         width: 100%;
-        margin: 3rem 0;
+        max-width: 40rem;
+        margin: 3rem auto;
+    }
+}
+
+@media screen and (min-width: 62rem) { 
+    .post {
+        img {
+            width: auto;
+            max-width: 60rem;
+            max-height: 60rem;
+        }
     }
 }
 
@@ -20,6 +27,9 @@
 }
 
 .post_header {
+    max-width: 40em;
+    margin-left: auto;
+    margin-right: auto;
     display: flex;
 }
 
