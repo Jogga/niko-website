@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Profen Mibrag"
+title:  "Mining Trainees"
 image: PROFEN_MIBRAG_335_HP2022_S.jpg
 ---
 
