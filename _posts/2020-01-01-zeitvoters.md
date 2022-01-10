@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "Voters"
-image: GLTZ_Waehler_DIYduo_012.jpg
+image: 012_GOERLITZ_WAEHLER_LTWSN_104_hp2020.jpg
 ---
 
