@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Voters"
+title:  "Voters In Görlitz"
 image: 012_GOERLITZ_WAEHLER_LTWSN_104_hp2020.jpg
 ---
 
