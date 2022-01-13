@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Amore Enterprise | Aufnahmen II"
+title:  "Amore Enterprise"
 image: AE_KASSETTE_Produktfoto_288_HP2022_S.jpg
 ---
 
