@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Voters In Görlitz"
-image: 012_GOERLITZ_WAEHLER_LTWSN_104_hp2020.jpg
+title:  "Voters in Görlitz"
+image: 012_GOERLITZ_WAEHLER_LTWSN_104_hp2022_S.jpg
 ---
 
 ![alt text](./assets/img/photos/series/zeitvoters/001_GOERLITZ_WAEHLER_LTWSN_008_hp2020.jpg)
