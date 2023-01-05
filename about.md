@@ -9,7 +9,7 @@ Nikolas‘ interest in photography evolved while documenting concerts and portra
 
 ### Photographs commissioned and published by:
 
-Bayerischer Rundfunk / Süddeutsche Zeitung Publishing / ZEIT online / Gruner+Jahr Publishing / Myself Magazine / Focus Magazine / Kolle Rebbe / Bundesministerium für Bildung und Forschung / Bundesstiftung Baukultur / ZickZack Records / Jazzlab Hamburg / Nasswetter Music Group / aJAZZ /  Schauspiel Leipzig / BISS Magazine / KIPPE Magazine and others
+Mitteldeutscher Rundfunk / Bayerischer Rundfunk / Süddeutsche Zeitung Publishing / ZEIT Online / Gruner+Jahr Publishing / Myself Magazine / Focus Magazine / Kolle Rebbe / Bundesministerium für Bildung und Forschung / Bundesstiftung Baukultur / ZickZack Records / Jazzlab Hamburg / Nasswetter Music Group / aJAZZ /  Schauspiel Leipzig / BISS Magazine / KIPPE Magazine and others
 
 ### Photographs exhibited in:
 
