@@ -13,7 +13,7 @@ Mitteldeutscher Rundfunk / Bayerischer Rundfunk / Süddeutsche Zeitung Publishin
 ZEIT Online / Gruner+Jahr Publishing / Myself Magazin / Focus / Kolle Rebbe  
 Bundesministerium für Bildung und Forschung / Bundesstiftung Baukultur  
 ZickZack Records / Jazzlab Hamburg / Nasswetter Music Group / aJAZZ  
-Schauspiel Leipzig / BISS Magazin / KIPPE Magazin  
+Schauspiel Leipzig / Kreuzer / BISS Magazin / KIPPE Magazin  
 and others
 
 ### Photographs exhibited in:
