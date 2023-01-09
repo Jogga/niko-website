@@ -5,7 +5,10 @@ layout: about
 
 # About
 
-Nikolas‘ interest in photography evolved while documenting concerts and portraying independent music artists. He studied photography in Munich after having had some excursions into sculpting and stage design. Nikolas‘ photographic practice is dedicated to portraiture. He currently lives and works in Leipzig.
+Nikolas‘ artistic practice is dedicated to portraiture (mostly).
+His interest in photography evolved while documenting concerts and portraying artists  
+of the independent music scene. After an internship as stage designer, he studied sculpting & photography in Munich.  
+He currently lives and works in Leipzig.
 
 ### Photographs commissioned and published by:
 
