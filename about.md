@@ -13,9 +13,9 @@ sculpting & photography in Munich. He currently lives and works in Leipzig.
 ### Photographs commissioned and published by:
 
 ARD Kultur / Mitteldeutscher Rundfunk / Bayerischer Rundfunk / Süddeutsche Zeitung  
-DIE ZEIT / ZEIT Online / ZEIT Studienführer / Gruner+Jahr / Myself Magazin / Focus / Kolle Rebbe  
+DIE ZEIT / ZEIT Online / ZEIT Studienführer / Gruner+Jahr / Myself Magazin / Focus  
+Kolle Rebbe / ZickZack Records / Jazzlab Hamburg / Nasswetter Music Group / aJAZZ  
 Bundesministerium für Bildung und Forschung / Bundesstiftung Baukultur  
-ZickZack Records / Jazzlab Hamburg / Nasswetter Music Group / aJAZZ  
 Schauspiel Leipzig / Kreuzer / BISS Magazin / KIPPE Magazin  
 and others
 
