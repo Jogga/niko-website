@@ -21,4 +21,5 @@ and others
 
 ### Photographs exhibited in:
 
-Kunsthalle Darmstadt (DTDF) / Deutsches Architekturmuseum Frankfurt am Main  (EAP19) / Ehemaliger Flughafen Berlin Tempelhof (Living The City) and others
+Kunsthalle Darmstadt (DTDF) / Deutsches Architekturmuseum Frankfurt am Main  (EAP)  
+Ehemaliger Flughafen Berlin Tempelhof (Living The City) and others
