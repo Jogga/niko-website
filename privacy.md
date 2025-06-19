@@ -12,11 +12,13 @@ layout: legal
 [5) Rechte der Nutzer und Löschung](#5-rechte-der-nutzer-und-löschung-von-daten)  
 [6) Änderungen der Datenschutzerklärung](#6-änderungen-der-datenschutzerklärung)  
 
+Auf unserer Website werden keine Cookies eingesetzt. Es findet kein Tracking statt, und es werden keine Inhalte von Drittanbietern (wie Google, Facebook, YouTube o. ä.) geladen.
+
 ## 1) Zielsetzung und verantwortliche Stelle
 
 Diese Datenschutzerklärung klärt über die Art, den Umfang und Zweck der Verarbeitung (u.a. Erhebung, Verarbeitung und Nutzung sowie Einholung von Einwilligungen) von personenbezogenen Daten innerhalb unseres Onlineangebotes und der mit ihm verbundenen Webseiten, Funktionen und Inhalte (nachfolgend gemeinsam bezeichnet als „Onlineangebot“ oder „Website“) auf. Die Datenschutzerklärung gilt unabhängig von den verwendeten Domains, Systemen, Plattformen und Geräten (z.B. Desktop oder Mobile) auf denen das Onlineangebot ausgeführt wird.
 
-Anbieter des Onlineangebotes und die datenschutzrechtlich verantwortliche Stelle ist , Inhaber: Nikolas Kammerer (nachfolgend bezeichnet als „AnbieterIn“, „wir“ oder „uns“). Für die Kontaktmöglichkeiten verweisen wir auf unser Impressum
+Anbieter des Onlineangebotes und die datenschutzrechtlich verantwortliche Stelle ist Inhaber: Nikolas Fabian Kammerer (nachfolgend bezeichnet als „AnbieterIn“, „wir“ oder „uns“). Für die Kontaktmöglichkeiten verweisen wir auf unser Impressum
 
 Der Begriff „Nutzer“ umfasst alle Kunden und Besucher unseres Onlineangebotes. Die verwendeten Begrifflichkeiten, wie z.B. „Nutzer“ sind geschlechtsneutral zu verstehen.
 
@@ -30,14 +32,7 @@ Sofern im Rahmen dieser Datenschutzerklärung Inhalte, Werkzeuge oder sonstige M
 
 ## 3) Verarbeitung personenbezogener Daten
 
-Die personenbezogenen Daten werden, neben den ausdrücklich in dieser Datenschutzerklärung genannten Verwendung, für die folgenden Zwecke auf Grundlage gesetzlicher Erlaubnisse oder Einwilligungen der Nutzer verarbeitet:
-– Die Zurverfügungstellung, Ausführung, Pflege, Optimierung und Sicherung unserer Dienste-, Service- und Nutzerleistungen;
-– Die Gewährleistung eines effektiven Kundendienstes und technischen Supports.
-
-Wir übermitteln die Daten der Nutzer an Dritte nur, wenn dies für Abrechnungszwecke notwendig ist (z.B. an einen Zahlungsdienstleister) oder für andere Zwecke, wenn diese notwendig sind, um unsere vertraglichen Verpflichtungen gegenüber den Nutzern zu erfüllen (z.B. Adressmitteilung an Lieferanten).
-
-Bei der Kontaktaufnahme mit uns (per Kontaktformular oder Email) werden die Angaben des Nutzers zwecks Bearbeitung der Anfrage sowie für den Fall, dass Anschlussfragen entstehen, gespeichert.
-Personenbezogene Daten werden gelöscht, sofern sie ihren Verwendungszweck erfüllt haben und der Löschung keine Aufbewahrungspflichten entgegenstehen.
+Es werden über diese Website keine personenbezogenen Daten verarbeitet, außer die, die im Rahmen des Zugriffs auf den Webserver technisch erforderlich sind (siehe Abschnitt „Zugriffsdaten“).
 
 ## 4) Erhebung von Zugriffsdaten
 
