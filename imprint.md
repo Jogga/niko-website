@@ -3,20 +3,35 @@ title: Nikolas Kammerer Photography – Imprint
 layout: legal
 ---
 
+# Impressum
+
+Angaben gemäß § 5 Digitale-Dienste-Gesetz (DDG)
+
+#### Nikolas Fabian Kammerer
+Karl-Ferlemann-Str. 22  
+04177 Leipzig
+Deutschland
+
+E-Mail: info[at]nikolasfabiankammerer.de  
+
+Umsatzsteuer-ID: Entfällt gemäß § 19 UStG (Kleinunternehmerregelung)
+
+Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV:  
+Nikolas Fabian Kammerer, Anschrift wie oben
+
+
 # Imprint
 
-Information in accordance with § 5 TMG
+Information pursuant to § 5 of the German Digital Services Act (DDG)
 
-Accountability for content The contents of our pages have been created with the utmost care. However, we cannot guarantee the contents’ accuracy, completeness or topicality. According to statutory provisions, we are furthermore responsible for our own content on these web pages. In this context, please note that we are accordingly not obliged to monitor merely the transmitted or saved information of third parties, or investigate circumstances pointing to illegal activity.
+#### Nikolas Fabian Kammerer
+Karl-Ferlemann-Str. 22  
+04177 Leipzig
+Deutschland
 
-Our obligations to remove or block the use of information under generally applicable laws remain unaffected by this as per §§ 8 to 10 of the Telemedia Act (TMG).
+E-Mail: info[at]nikolasfabiankammerer.de  
 
-Accountability for links Responsibility for the content of external links (to web pages of third parties) lies solely with the operators of the linked pages. No violations were evident to us at the time of linking. Should any legal infringement become known to us, we will remove the respective link immediately.
+VAT ID: Not applicable pursuant to § 19 of the German VAT Act (Kleinunternehmerregelung / small business regulation)
 
-Copyright of Our web pages and their contents are subject to German copyright law. Unless expressly permitted by law (§ 44a et seq. of the copyright law), every form of utilizing, reproducing or processing works subject to copyright protection on our web pages requires the prior consent of the respective owner of the rights. Individual reproductions of a work are allowed only for private use, so must not serve either directly or indirectly for earnings. Unauthorized utilization of copyrighted works is punishable (§ 106 of the copyright law).
-
-### Nikolas Fabian Kammerer
-
-Karl-Ferlemann-Str. 22, 04177 Leipzig  
-Telephone: +49 (0) 176 623 859 83  
-E-Mail: info[at]nikolasfabiankammerer.de
+Responsible for content pursuant to § 18 (2) of the German State Media Treaty (MStV):  
+Nikolas Fabian Kammerer, address as above
